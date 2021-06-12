@@ -10,4 +10,4 @@ This mod currently has three items:
 
 Also, this is my first ever attempt at making a mod, or coding java in general for that matter, so huge thanks to the Fabric Discord server for their help and patience with me on this project.
 
-![Fabric API Required](https://i.imgur.com/Ol1Tcf8.png)
+![Fabric API Required](https://www.minecraftmodskin.com/wp-content/uploads/2020/10/fabric-requires-300x101.png)
